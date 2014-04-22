@@ -2,7 +2,6 @@ OSM Shapefile QGIS stylesheets
 ==============================
 
 *This repo contains QGIS stylesheets (QML) for use with OpenStreetMap (OSM) data in ESRI Shapefile format*
-
 ==============================
 
 ![Example](https://raw.githubusercontent.com/charleyglynn/OSM-Shapefile-QGIS-stylesheets/master/Images/OSM_Jersey.png)
@@ -23,8 +22,6 @@ For the sea tint you will need to set your background colour to **R** 184 **G** 
 I recommend this layer order:
 
 ![layers](https://raw.githubusercontent.com/charleyglynn/OSM-Shapefile-QGIS-stylesheets/master/Images/Layer_Order.png)
-
-==============================
 
 ##Credit:
 
