@@ -5,7 +5,7 @@ OSM Shapefile QGIS stylesheets
 
 ==============================
 
-![Example](Images/OSM_ersey.PNG)
+![Example](https://raw.githubusercontent.com/charleyglynn/OSM-Shapefile-QGIS-stylesheets/master/Images/OSM_Jersey.png)
 
 ##Background
 
@@ -22,7 +22,7 @@ For the sea tint you will need to set your background colour to **R**184 **G**21
 
 I recommend this layer order:
 
-![layers](Images/Layer_Order.PNG)
+![layers](https://raw.githubusercontent.com/charleyglynn/OSM-Shapefile-QGIS-stylesheets/master/Images/Layer_Order.png)
 
 ==============================
 
