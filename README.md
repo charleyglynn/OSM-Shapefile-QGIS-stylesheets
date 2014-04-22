@@ -18,7 +18,7 @@ These stylesheets have been designed to work at a large scale (1:4,000). They ar
 
 They have been made to work with ESRI Shapefiles from [Geofabrik](http://download.geofabrik.de/) and land polygons from [OpenStreetMapData](http://openstreetmapdata.com/data/land-polygons).
 
-For the sea tint you will need to set your background colour to **R**184 **G**217 **B**247.
+For the sea tint you will need to set your background colour to **R** 184 **G** 217 **B** 247.
 
 I recommend this layer order:
 
