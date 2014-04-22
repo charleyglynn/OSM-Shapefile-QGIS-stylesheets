@@ -24,7 +24,7 @@ I recommend this layer order:
 
 ![layers](https://raw.githubusercontent.com/charleyglynn/OSM-Shapefile-QGIS-stylesheets/master/Images/Layer_Order.png)
 
-##Credit:
+##Credit & Licence
 
 Thanks to the guys at [Geofabrik](http://download.geofabrik.de/) and [OpenStreetMapData](http://openstreetmapdata.com/data/land-polygons) for providing the ESRI Shapefiles.
 
