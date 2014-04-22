@@ -2,6 +2,7 @@ OSM Shapefile QGIS stylesheets
 ==============================
 
 *This repo contains QGIS stylesheets (QML) for use with OpenStreetMap (OSM) data in ESRI Shapefile format*
+
 ==============================
 
 ![Example](https://raw.githubusercontent.com/charleyglynn/OSM-Shapefile-QGIS-stylesheets/master/Images/OSM_Jersey.png)
