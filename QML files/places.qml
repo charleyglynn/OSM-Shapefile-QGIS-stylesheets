@@ -1,6 +1,6 @@
 <!DOCTYPE qgis PUBLIC 'http://mrcc.com/qgis.dtd' 'SYSTEM'>
 <qgis version="2.2.0-Valmiera" minimumScale="0" maximumScale="1e+08" simplifyDrawingHints="0" minLabelScale="1" maxLabelScale="1e+08" simplifyDrawingTol="1" simplifyMaxScale="1" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
-  <renderer-v2 attr="type" symbollevels="0" type="categorizedSymbol">
+  <renderer-v2 attr="fclass" symbollevels="0" type="categorizedSymbol">
     <categories>
       <category symbol="0" value="hamlet" label="hamlet"/>
       <category symbol="1" value="locality" label="locality"/>
